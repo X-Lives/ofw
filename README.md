@@ -1,6 +1,6 @@
-# 语言
-[English](https://github.com/is52hertz/ofw/blob/main/README.md#english)  
-[简体中文](https://github.com/is52hertz/ofw/blob/main/README.md#%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)  
+# Language - 語言 - 语言
++ [English](https://github.com/is52hertz/ofw/blob/main/README.md#english)  
++ [简体中文](https://github.com/is52hertz/ofw/blob/main/README.md#%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)  
   
 ### English
 # OFW
